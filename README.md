@@ -1,6 +1,29 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lottery Game 🎲
+This is a simple and fun lottery game built with React. Test your luck and see if you can win!
+
+🚀 Features
+Lottery Mechanism: The lottery consists of three numbers, and you win if the first number is 0.
+Interactive Gameplay: Engaging user interface powered by React.
+Randomized Numbers: Ensures fair play with randomized lottery results every time.
+
+🛠️ Technologies Used
+React: For building the UI and managing the state of the game.
+CSS: For styling and creating an interactive user experience.
+JavaScript: For handling the logic of the game.
+
+🎮 How to Play
+Run the application locally or access the live version.
+Click the "Buy New Ticket" button to roll the numbers.
+Check if the first number is 0 to win!
+
+📁 Repository Structure
+src/: Contains the core React components and game logic.
+public/: Static files and assets.
+README.md: Documentation for the project.
+
+
 
 Currently, two official plugins are available:
 
